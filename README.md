@@ -15,3 +15,5 @@ app.py:
 index.html:
 - Uses Jinja2 templating to display {{ message }}.
 - Includes CSS for styling and a form with a submit button.
+  ## Image :
+  https://github.com/AkshayaPadigela/Basic-Flask-Page/blob/main/Screenshot%20(269).png
